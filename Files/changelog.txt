@@ -1,0 +1,18 @@
+CHANGELOG
+================
+
+v1.1.0 - 21/03/2015
+NEW
+- Added ready-made colored template options
+- Added New Admin Profile page
+- Added Timeline to User Profile
+
+UPDATED
+- Updated Circloid's Dashboard layout
+- Changed default Profile page to Customer Profile
+
+FIXED
+- Timeline page responsiveness fixed
+
+v1.0.0 - 10/03/2015
+- Initial Release
